@@ -18,7 +18,7 @@
 const enfuir = {
     name: "Enfuir",
     role: "Security Researcher & Low-Level Developer",
-    location: "Deep in Ring 0",
+    location: "Ring 0",
     
     currentFocus: [
         "🔓 IOMMU/VT-d Bypass Techniques",
@@ -33,12 +33,7 @@ const enfuir = {
         security: ["Bypass", "Evasion", "Exploitation"]
     },
     
-    achievements: {
-        discovered: "AMD B450 IOMMU bypass quirk",
-        performance: "211 MB/s DMA @ 0% detection",
-        documentation: "8,370+ lines of research",
-        stealth: "5-10% detection risk"
-    }
+    motto: "Break it to understand it, understand it to secure it"
 };
 ```
 
@@ -46,78 +41,50 @@ const enfuir = {
 
 ---
 
-## 🚀 Private Research Projects
+## 🚀 Research Portfolio
 
 <div align="center">
 
-### 🔐 Confidential Security Research Portfolio
+### 🔐 Private Security Research
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-#### 🔓 IOMMU Bypass Research
+#### 🔓 IOMMU Bypass
 <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Visibility-Private-red?style=for-the-badge" />
 
-**AMD B450 Chipset DMA Bypass**
-- ✅ Hardware quirk discovery
-- ✅ Kernel DMA Protection bypass
-- ✅ 211 MB/s throughput, 0% failures
-- ✅ 8,370+ lines documentation
-- ✅ Complete driver implementation
-
-**Tech:** C, PowerShell, ACPI, WDK
+**Confidential Research Project**
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 #### 🌌 Phantom Hypervisor
 <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Visibility-Private-red?style=for-the-badge" />
 
-**UEFI Hypervisor with IOMMU Bypass**
-- ✅ UEFI DXE driver implementation
-- ✅ VT-x/AMD-V virtualization
-- ✅ ACPI table modification
-- ✅ Anti-cheat evasion
-- ✅ Secure Boot compatible
-
-**Tech:** C, UEFI, Assembly, Hypervisor
+**Confidential Research Project**
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-#### 💎 MiniVisor Implementation
+#### 💎 MiniVisor
 <img src="https://img.shields.io/badge/Status-Complete-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Visibility-Private-red?style=for-the-badge" />
 
-**Complete Hypervisor with IOMMU Support**
-- ✅ 1,382 lines VMX initialization
-- ✅ Complete VMCS configuration
-- ✅ IOMMU bypass implementation
-- ✅ 2,600+ lines documentation
-- ✅ Production-grade quality
-
-**Tech:** C, VMX, Intel VT-x
+**Confidential Research Project**
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-#### ⚡ AMD DieDMAProtection
+#### ⚡ DieDMAProtection
 <img src="https://img.shields.io/badge/Status-Complete-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Visibility-Private-red?style=for-the-badge" />
 
-**Kernel Driver for IOMMU Bypass**
-- ✅ Runtime IOMMU disabling
-- ✅ IVRS table parsing
-- ✅ MMIO manipulation
-- ✅ Visual Studio project
-- ✅ Complete build system
-
-**Tech:** C, WDK, Kernel APIs
+**Confidential Research Project**
 
 </td>
 </tr>
@@ -157,11 +124,11 @@ const enfuir = {
 
 **🔒 Hardware Security**
 ```
-• IOMMU/VT-d Bypass
+• IOMMU/VT-d Research
 • DMA Attack Vectors
 • PCIe Protocol
 • FPGA Development
-• Chipset Exploitation
+• Chipset Analysis
 ```
 
 </td>
@@ -171,9 +138,9 @@ const enfuir = {
 ```
 • Windows Drivers (WDK)
 • Hypervisor Development
-• ACPI Table Engineering
+• ACPI Engineering
 • Memory Management
-• Kernel Debugging
+• Low-Level Debugging
 ```
 
 </td>
@@ -212,21 +179,19 @@ const enfuir = {
 
 ---
 
-## 🏆 Key Achievements
+## 🏆 Research Highlights
 
 <div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
-║   🔓 Discovered AMD B450 IOMMU bypass hardware quirk                        ║
-║   ⚡ Achieved 211 MB/s DMA throughput with 0% failure rate                  ║
-║   📚 Authored 8,370+ lines of comprehensive security documentation          ║
-║   🛡️ Bypassed Kernel DMA Protection while maintaining full compliance       ║
-║   🎯 Achieved 5-10% detection risk (extremely low)                          ║
-║   💻 Developed production-ready kernel drivers and hypervisors              ║
-║   🔬 Published extensive anti-cheat bypass research                         ║
-║   🌌 Created complete UEFI hypervisor with IOMMU bypass                     ║
+║   🔓 Advanced IOMMU/VT-d bypass research and implementation                 ║
+║   ⚡ High-performance DMA attack development and optimization               ║
+║   🛡️ Comprehensive anti-cheat evasion and detection analysis                ║
+║   💻 Production-grade kernel drivers and hypervisor development             ║
+║   🔬 Extensive security research and vulnerability analysis                 ║
+║   🌌 UEFI-level system manipulation and firmware development                ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -254,7 +219,7 @@ Deep understanding of I/O virtualization, DMA protection mechanisms, and bypass 
 ### ⚡ DMA Attacks
 <img src="https://img.shields.io/badge/Expertise-Expert-success?style=for-the-badge" />
 
-Direct Memory Access exploitation, PCIe protocol analysis, FPGA development, and custom firmware for stealth DMA operations.
+Direct Memory Access exploitation, PCIe protocol analysis, FPGA development, and custom firmware for advanced DMA operations.
 
 </td>
 <td width="33%" align="center">
@@ -289,16 +254,16 @@ Analysis of kernel-level anti-cheat systems, detection evasion techniques, behav
 <tr>
 <td align="center" width="25%">
 
-**🔍 Responsible<br>Disclosure**
+**🔍 Responsible<br>Research**
 
-Finding vulnerabilities to strengthen systems
+Advancing security through ethical disclosure
 
 </td>
 <td align="center" width="25%">
 
-**📖 Open<br>Research**
+**📖 Knowledge<br>Sharing**
 
-Sharing knowledge to advance security
+Contributing to the security community
 
 </td>
 <td align="center" width="25%">
