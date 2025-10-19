@@ -10,15 +10,19 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=1000&lines=AMD+SVM+%26+Intel+VMX+Hypervisor+Development;IOMMU+%2F+VT-d+Bypass+Techniques;Windows+Kernel+Driver+Development;UEFI+%2F+BIOS-Level+Programming;Anti-Cheat+Evasion+Research;DMA+Attack+Development" alt="Typing SVG" />
+</p>
+
+---
+
 <div align="center">
 
 ### 🔐 Specializing in Hardware Virtualization & DMA Bypass Research
 
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AMD+SVM+%26+Intel+VMX+Hypervisor+Development;IOMMU+%2F+VT-d+Bypass+Techniques;Windows+Kernel+Driver+Development;UEFI+%2F+BIOS-Level+Programming;Anti-Cheat+Evasion+Research;DMA+Attack+Development" alt="Typing SVG" />
-</p>
+</div>
 
 ---
 
@@ -49,39 +53,7 @@
 
 <div align="center">
 
-## 🚀 Featured Projects
-
-### AMD Platform
-
-[![AMD-DMA-IOMMU-Bypass](https://github-readme-stats.vercel.app/api/pin/?username=Enfuir&repo=AMD-DMA-IOMMU-Bypass&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/Enfuir/AMD-DMA-IOMMU-Bypass)
-[![AMD-IOMMU-Ultimate](https://github-readme-stats.vercel.app/api/pin/?username=Enfuir&repo=AMD-IOMMU-Ultimate&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/Enfuir/AMD-IOMMU-Ultimate)
-
-[![AMD-IOMMU-Bypass-Driver](https://github-readme-stats.vercel.app/api/pin/?username=Enfuir&repo=AMD-IOMMU-Bypass-Driver&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/Enfuir/AMD-IOMMU-Bypass-Driver)
-[![AMD-SVM-Phantom-Hypervisor](https://github-readme-stats.vercel.app/api/pin/?username=Enfuir&repo=AMD-SVM-Phantom-Hypervisor&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/Enfuir/AMD-SVM-Phantom-Hypervisor)
-
-### Intel Platform
-
-[![Intel-VMX-MiniVisor](https://github-readme-stats.vercel.app/api/pin/?username=Enfuir&repo=Intel-VMX-MiniVisor&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/Enfuir/Intel-VMX-MiniVisor)
-[![Intel-VMX-MiniVisor-Lite](https://github-readme-stats.vercel.app/api/pin/?username=Enfuir&repo=Intel-VMX-MiniVisor-Lite&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/Enfuir/Intel-VMX-MiniVisor-Lite)
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Enfuir&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Enfuir&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enfuir&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=html,css,javascript" />
-
-</div>
-
----
-
-<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="900">
 
 ## 🎯 Research Focus
 
@@ -94,6 +66,45 @@
 🎮 DMA Attack Development
 ```
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Enfuir&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Enfuir&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enfuir&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=html,css,javascript" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Enfuir&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B" width="98%" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="900">
+
+## 🚀 Repositories
+
+### AMD Platform
+- **AMD-DMA-IOMMU-Bypass** - B450 Hardware Quirk (5-10% detection)
+- **AMD-IOMMU-Ultimate** - ROT13 Obfuscated Driver (2-7% detection)
+- **AMD-IOMMU-Bypass-Driver** - Standard Kernel Driver
+- **AMD-SVM-Phantom-Hypervisor** - UEFI Hypervisor
+
+### Intel Platform
+- **Intel-VMX-MiniVisor** - Production VMX Hypervisor
+- **Intel-VMX-MiniVisor-Lite** - Educational Version
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+
 </div>
 
 ---
@@ -104,6 +115,8 @@
 
 **All projects are for educational and security research purposes only.**
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+
 </div>
 
 ---
@@ -111,6 +124,8 @@
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Enfuir&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
