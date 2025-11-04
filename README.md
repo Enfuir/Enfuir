@@ -1,78 +1,50 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
 
-# 👋 Hi, I'm Enfuir
+# 👾 Hey, I'm Enfuir!
 
-### Learning Low-Level Systems Programming | Hobbyist Developer
+### Retro Gaming Enthusiast | Hobby Programmer | Pizza Lover 🍕
 
 [![GitHub followers](https://img.shields.io/github/followers/Enfuir?style=social)](https://github.com/Enfuir)
-[![Profile Views](https://komarev.com/ghpvc/?username=Enfuir&color=blue)](https://github.com/Enfuir)
+[![Profile Views](https://komarev.com/ghpvc/?username=Enfuir&color=blueviolet)](https://github.com/Enfuir)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 🎮 About Me
 
-Just a beginner exploring the fascinating world of **low-level systems programming** and **computer architecture**. I'm learning by doing small projects and documenting my journey.
+Just a regular person who loves retro games and occasionally writes code when I'm bored. I spend most of my time playing indie games, watching YouTube, and trying to figure out why my code doesn't work 😅
 
-```c
-// Still learning the basics
-int main() {
-    printf("Hello, World!\n");
-    // One step at a time...
-    return 0;
-}
+```javascript
+const me = {
+    hobbies: ["Gaming 🎮", "Pizza 🍕", "Memes 😂"],
+    skills: ["Googling errors", "Copy-pasting from StackOverflow"],
+    currentlyPlaying: "Celeste, Hollow Knight, Stardew Valley",
+    favoriteSnack: "Doritos"
+};
 ```
 
-### 🌱 Currently Learning
-
-- **Systems Programming** - Understanding how computers work at a low level
-- **C/C++** - Building a foundation in systems languages
-- **Assembly** - Learning x86/x64 basics (very slowly!)
-- **UEFI/BIOS** - Exploring firmware and boot processes
-- **Hardware** - Tinkering with PCIe devices and memory
-
-### 📚 Learning Resources I Use
-
-- Online tutorials and documentation
-- Open source projects (reading code to learn)
-- Technical books and papers
-- Community forums and Discord servers
-
 ---
 
-## 🛠️ Technologies I'm Exploring
+## 🕹️ What I Do
 
-<div align="center">
+Mostly just mess around with code for fun! Nothing serious, just hobby projects:
 
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | C, C++, Python, Assembly (learning) |
-| **Platforms** | Windows, Linux |
-| **Tools** | Visual Studio, GCC, Git |
-| **Areas** | Systems programming, firmware basics |
+### 🎯 Random Projects
 
-</div>
+- **Calculator Apps** - Because why not reinvent the wheel?
+- **To-Do Lists** - I have like 5 different ones (still don't use any of them)
+- **Discord Bots** - Mostly useless but fun to make
+- **Random Scripts** - Automate stuff I'm too lazy to do manually
 
----
+### 🎨 Learning (Very Slowly)
 
-## 📂 My Projects
-
-These are just **learning projects** and experiments. Nothing fancy, just me trying to understand how things work:
-
-### 🔹 IOMMU Research Notes
-> Personal notes and experiments while learning about AMD IOMMU architecture
-> - Reading ACPI tables
-> - Understanding IVRS structures
-> - Educational purposes only
-
-### 🔹 Small System Tools
-> Basic utilities I'm building to learn systems programming
-> - Simple memory readers
-> - Hardware enumeration tools
-> - Learning by doing!
+- JavaScript/TypeScript
+- Python (for automating boring stuff)
+- HTML/CSS (still can't center a div)
+- Git (I just push to main, don't judge me)
 
 ---
 
@@ -80,49 +52,74 @@ These are just **learning projects** and experiments. Nothing fancy, just me try
 
 <div align="center">
 
-![Enfuir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enfuir&show_icons=true&theme=tokyonight)
+![Enfuir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enfuir&show_icons=true&theme=radical)
 
 </div>
 
 ---
 
-## 💭 My Philosophy
+## 🎮 Favorite Games
 
-> _"The best way to learn is by building things, even if they're simple."_
-
-I'm not an expert - just someone curious about how computers work at a fundamental level. Every project is a learning experience, and I'm documenting my journey in case it helps other beginners.
-
----
-
-## 🎓 Learning Goals
-
-- [ ] Understand basic systems architecture
-- [ ] Write simple drivers (someday!)
-- [ ] Learn more about firmware
-- [ ] Contribute to open source projects
-- [ ] Build a strong foundation in C/C++
+| Retro | Modern Indie |
+|-------|--------------|
+| Super Mario World | Celeste |
+| Mega Man X | Hollow Knight |
+| Chrono Trigger | Stardew Valley |
+| Final Fantasy VI | Undertale |
 
 ---
 
-## ⚠️ Disclaimer
+## 💭 Random Thoughts
 
-All my projects are **educational experiments** for learning purposes. I'm just a hobbyist trying to understand how systems work. Please use any code responsibly and only on systems you own.
+> "Why does my code work? I have no idea. Why did it break? Also no idea."
+
+I'm just here to:
+- ✅ Play games
+- ✅ Make random projects
+- ✅ Procrastinate on actual work
+- ✅ Eat pizza
+- ✅ Repeat
 
 ---
 
-## 📫 Connect
+## 🛠️ Tech I Use (Sometimes)
 
-- **GitHub**: [@Enfuir](https://github.com/Enfuir)
-- **Discord**: Available for learning discussions
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 🎯 Current Goals
+
+- [ ] Actually finish a project
+- [ ] Learn to center a div properly
+- [ ] Beat Celeste without assist mode
+- [ ] Stop starting new projects before finishing old ones
+- [ ] Touch grass (maybe)
+
+---
+
+## 📫 Find Me
+
+- **GitHub**: Right here!
+- **Discord**: Probably gaming
+- **Stack Overflow**: Asking why my code doesn't work
 
 ---
 
 <div align="center">
 
-### 🌟 Thanks for visiting!
+### 🌟 Thanks for stopping by!
 
-_"Every expert was once a beginner."_
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6EC7&center=true&vCenter=true&width=435&lines=Gamer+%F0%9F%8E%AE;Hobby+Programmer+%F0%9F%92%BB;Pizza+Enthusiast+%F0%9F%8D%95;Professional+Procrastinator+%E2%8F%B8%EF%B8%8F)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=Learning+Systems+Programming;Building+Small+Projects;One+Step+at+a+Time)
+**"Code is like humor. When you have to explain it, it's bad."**
 
 </div>
